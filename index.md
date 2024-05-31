@@ -48,12 +48,12 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 * **E3Gen: Efficient, Expressive and Editable Avatars Generation.**  
 *Weitian Zhang, **Yichao Yan**, Yunhui Liu, Xingdong Sheng, Xiaokang Yang.  
-Preprint, 2024.*
+Preprint, 2024.*  
 [[project]](https://olivia23333.github.io/E3Gen/)
 
 * **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture.**  
-*Xuanchen Li1, Yuhao Cheng, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, **Yichao Yan**.  
-Preprint, 2024.*
+*Xuanchen Li, Yuhao Cheng, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, **Yichao Yan**.  
+Preprint, 2024.*  
 [[project]](https://xuanchenli.github.io/Topo4D/)
 
 
