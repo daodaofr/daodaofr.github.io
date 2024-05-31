@@ -44,8 +44,22 @@ I am interested in **computer vision** and machine learning problems. Typically,
 - 05/2021, I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
 - 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
 
+### Preprints
+
+
+
+* **Inter-X: Towards Versatile Human-Human Interaction Analysis.**  
+*Liang Xu, Xintao Lv, **Yichao Yan**, Xin Jin, Shuwen Wu, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng, Xiaokang Yang.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
+[[paper]](https://arxiv.org/pdf/2312.16051.pdf) [[project]](https://liangxuy.github.io/inter-x/)
+
 
 ### Publications
+
+* **HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks.**  
+*Zhuo Chen, Xudong Xu, **Yichao Yan**, Ye Pan, Wenhan Zhu, Wayne Wu, Bo Dai, and Xiaokang Yang.  
+IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY (**TCSVT**), 2024.*  
+[[project]](https://windlikestone.github.io/HyperStyle3D-website/)
 
 * **3D-Aware Face Editing via Warping-Guided Latent Direction Learning.**  
 *Yuhao Cheng, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Zhengqin Xu, Di Xu, Changpeng Yang, **Yichao Yan**.  
