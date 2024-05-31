@@ -46,12 +46,15 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 ### Preprints
 
+* **E3Gen: Efficient, Expressive and Editable Avatars Generation.**  
+*Weitian Zhang, **Yichao Yan**, Yunhui Liu, Xingdong Sheng, Xiaokang Yang.  
+Preprint, 2024.*
+[[project]](https://olivia23333.github.io/E3Gen/)
 
-
-* **Inter-X: Towards Versatile Human-Human Interaction Analysis.**  
-*Liang Xu, Xintao Lv, **Yichao Yan**, Xin Jin, Shuwen Wu, Congsheng Xu, Yifan Liu, Yizhou Zhou, Fengyun Rao, Xingdong Sheng, Yunhui Liu, Wenjun Zeng, Xiaokang Yang.  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.*  
-[[paper]](https://arxiv.org/pdf/2312.16051.pdf) [[project]](https://liangxuy.github.io/inter-x/)
+* **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture.**  
+*Xuanchen Li1, Yuhao Cheng, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, **Yichao Yan**.  
+Preprint, 2024.*
+[[project]](https://xuanchenli.github.io/Topo4D/)
 
 
 ### Publications
