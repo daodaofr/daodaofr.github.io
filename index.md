@@ -9,11 +9,11 @@ Email: yanyichao(at)sjtu.edu.cn
 Office: 5-510, Software building, Shanghai Jiao Tong University.
 
 ### Facilities
-We have a light stage and several motion capture devices.
+We have a light stage and a motion/volume capture devices. We have abundant GPUs.
 ![image](facility.png)
 
 ### Opening Positions
-Looking for self-motivated students working with me in computer vision. For prospective students, please send your resume and transcript to my email. 
+Looking for self-motivated students to work with me in computer vision. For prospective students, please send your resume and transcript to my email. 
 
 
 ### Biography
@@ -61,7 +61,7 @@ Preprint, 2024.*
 
 * **HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks.**  
 *Zhuo Chen, Xudong Xu, **Yichao Yan**, Ye Pan, Wenhan Zhu, Wayne Wu, Bo Dai, and Xiaokang Yang.  
-IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY (**TCSVT**), 2024.*  
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.*  
 [[project]](https://windlikestone.github.io/HyperStyle3D-website/)
 
 * **3D-Aware Face Editing via Warping-Guided Latent Direction Learning.**  
