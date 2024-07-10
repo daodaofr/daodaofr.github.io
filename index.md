@@ -49,8 +49,8 @@ Preprint, 2024.*
 European Conference on Computer Vision (**ECCV**), 2024.*  
 [[project]](https://xuanchenli.github.io/Topo4D/)
 
-* **HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects.** 
-*Xintao Lv, Liang Xu, **Yichao Yan**, Xin Jin, Congsheng Xu, Shuwen Wu, Yifan Liu, Lincheng Li, Mengxiao Bi, Wenjun Zeng, Xiaokang Yang.
+* **HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects.**  
+*Xintao Lv, Liang Xu, **Yichao Yan**, Xin Jin, Congsheng Xu, Shuwen Wu, Yifan Liu, Lincheng Li, Mengxiao Bi, Wenjun Zeng, Xiaokang Yang.  
 European Conference on Computer Vision (**ECCV**), 2024.*  
 
 * **HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks.**  
