@@ -24,25 +24,15 @@ I am interested in **computer vision** and machine learning problems. Typically,
 
 
 ### Updates   
-- 02/2024, Four papers on human interaction generation, face reconstruction and editing are accepted by CVPR 2024.
-- 02/2024, One paper on human action recognition is accepted by TPAMI.
+- 07/2024, Two papers on 4D face reconstruction and human-object interaction are accepted by **ECCV** 2024.
+- 02/2024, Four papers on human interaction generation, face reconstruction and editing are accepted by **CVPR** 2024.
+- 02/2024, One paper on human action recognition is accepted by **TPAMI**.
 - 11/2023, 团队获得第十八届“挑战杯”数字人专项赛特等奖.
-- 09/2023, We will organize a workshop "[AI for Digital Human](https://digitalhumanworkshop.github.io/)" on AAAI 2024.
-- 09/2023, One paper on NeRF-based visual localization is accepted by NeurIPS 2023.
-- 07/2023, One paper on human action generation is accepted by ICCV 2023.
+- 09/2023, We will organize a workshop "[AI for Digital Human](https://digitalhumanworkshop.github.io/)" on **AAAI** 2024.
+- 09/2023, One paper on NeRF-based visual localization is accepted by **NeurIPS** 2023.
+- 07/2023, One paper on human action generation is accepted by **ICCV** 2023.
 - 06/2023, We win the championship of the 2023 Ego4D Challenge in the Episodic memory: PACO Zero-Shot track.
-- 04/2023, Our survey paper on digital human generation is accepted by SCIENTIA SINICA Informationis.
-- 03/2023, Three papers on 3D digital human generation/reconstruction are accepted by CVPR 2023.
-- 02/2023, One paper is accepted by TIP, one paper is accepted by IJCV.
-- 09/2022, One paper is accepted by NeurIPS 2022.
-- 07/2022, One paper is accepted by IJCV.
-- 07/2022, I receive CCF-阿里巴巴创新研究计划青年科学基金.
-- 07/2022, One paper is accepted by ECCV 2022.
-- 12/2021, One paper is accepted by AAAI 2022.
-- 12/2021, I receive Huawei-MindSpore学术奖励基金.
-- 09/2021, I serve as an SPC member for AAAI22.
-- 05/2021, I join the AI Institute of Shanghai Jiao Tong University as an assistant professor.
-- 11/2020, I receive the Excellent Doctoral Dissertation Award from CSIG.
+- 03/2023, Three papers on 3D digital human generation/reconstruction are accepted by **CVPR** 2023.
 
 ### Preprints
 
@@ -51,13 +41,17 @@ I am interested in **computer vision** and machine learning problems. Typically,
 Preprint, 2024.*  
 [[project]](https://olivia23333.github.io/E3Gen/)
 
-* **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture.**  
-*Xuanchen Li, Yuhao Cheng, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, **Yichao Yan**.  
-Preprint, 2024.*  
-[[project]](https://xuanchenli.github.io/Topo4D/)
-
 
 ### Publications
+
+* **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture.**  
+*Xuanchen Li, Yuhao Cheng, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, **Yichao Yan**.  
+European Conference on Computer Vision (**ECCV**), 2024.*  
+[[project]](https://xuanchenli.github.io/Topo4D/)
+
+* **HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects.** 
+*Xintao Lv, Liang Xu, **Yichao Yan**, Xin Jin, Congsheng Xu, Shuwen Wu, Yifan Liu, Lincheng Li, Mengxiao Bi, Wenjun Zeng, Xiaokang Yang.
+European Conference on Computer Vision (**ECCV**), 2024.*  
 
 * **HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks.**  
 *Zhuo Chen, Xudong Xu, **Yichao Yan**, Ye Pan, Wenhan Zhu, Wayne Wu, Bo Dai, and Xiaokang Yang.  
