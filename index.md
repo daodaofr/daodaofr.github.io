@@ -52,6 +52,7 @@ European Conference on Computer Vision (**ECCV**), 2024.*
 * **HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects.**  
 *Xintao Lv, Liang Xu, **Yichao Yan**, Xin Jin, Congsheng Xu, Shuwen Wu, Yifan Liu, Lincheng Li, Mengxiao Bi, Wenjun Zeng, Xiaokang Yang.  
 European Conference on Computer Vision (**ECCV**), 2024.*  
+[[project]](https://lvxintao.github.io/himo/)
 
 * **HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks.**  
 *Zhuo Chen, Xudong Xu, **Yichao Yan**, Ye Pan, Wenhan Zhu, Wayne Wu, Bo Dai, and Xiaokang Yang.  
