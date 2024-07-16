@@ -45,13 +45,13 @@ arXiv Preprint, 2024.*
 
 ### Publications
 
-* **E3Gen: Efficient, Expressive and Editable Avatars Generation.**  
+* **E^3Gen: Efficient, Expressive and Editable Avatars Generation.**  
 *Weitian Zhang, **Yichao Yan**, Yunhui Liu, Xingdong Sheng, Xiaokang Yang.  
 **ACM Multimedia**, 2024.*  
 [[project]](https://olivia23333.github.io/E3Gen/)
 
 * **Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting.**  
-*Weili Zeng1, **Yichao Yan**, Qi Zhu, Zhuo Chen, Pengzhi Chu, Weiming Zhao, Xiaokang Yang.  
+*Weili Zeng, **Yichao Yan**, Qi Zhu, Zhuo Chen, Pengzhi Chu, Weiming Zhao, Xiaokang Yang.  
 **ACM Multimedia**, 2024.*  
 [[project]](https://zwl666666.github.io/infusion/)
 
