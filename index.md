@@ -24,6 +24,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 07/2024, Three papers on avatar generation, face animation, and diffusion model are accepted by **ACM Multimedia** 2024.
 - 07/2024, Two papers on 4D face reconstruction and human-object interaction are accepted by **ECCV** 2024.
 - 02/2024, Four papers on human interaction generation, face reconstruction and editing are accepted by **CVPR** 2024.
 - 02/2024, One paper on human action recognition is accepted by **TPAMI**.
@@ -36,13 +37,27 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
-* **E3Gen: Efficient, Expressive and Editable Avatars Generation.**  
-*Weitian Zhang, **Yichao Yan**, Yunhui Liu, Xingdong Sheng, Xiaokang Yang.  
-Preprint, 2024.*  
-[[project]](https://olivia23333.github.io/E3Gen/)
+* **IPAD: Industrial Process Anomaly Detection Dataset.**  
+*Jinfan Liu, **Yichao Yan**, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, Xiaokang Yang
+arXiv Preprint, 2024.*  
+[[project]](https://ljf1113.github.io/IPAD_VAD/)
 
 
 ### Publications
+
+* **E3Gen: Efficient, Expressive and Editable Avatars Generation.**  
+*Weitian Zhang, **Yichao Yan**, Yunhui Liu, Xingdong Sheng, Xiaokang Yang.  
+**ACM Multimedia**, 2024.*  
+[[project]](https://olivia23333.github.io/E3Gen/)
+
+* **Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting.**  
+*Weili Zeng1, **Yichao Yan**, Qi Zhu, Zhuo Chen, Pengzhi Chu, Weiming Zhao, Xiaokang Yang.  
+**ACM Multimedia**, 2024.*  
+[[project]](https://zwl666666.github.io/infusion/)
+
+* **MMHead: Towards Fine-grained Multi-modal 3D Facial Animation.**  
+*Sijing Wu, Yunhao Li, **Yichao Yan**, Huiyu Duan, Ziwei Liu, Guangtao Zhai.  
+**ACM Multimedia**, 2024.*  
 
 * **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture.**  
 *Xuanchen Li, Yuhao Cheng, Xingyu Ren, Haozhe Jia, Di Xu, Wenhan Zhu, **Yichao Yan**.  
