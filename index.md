@@ -39,12 +39,12 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 ### Preprints
 
 * **IPAD: Industrial Process Anomaly Detection Dataset.**  
-*Jinfan Liu, **Yichao Yan**, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, Xiaokang Yang
+*Jinfan Liu, **Yichao Yan**, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
 arXiv Preprint, 2024.*  
 [[project]](https://ljf1113.github.io/IPAD_VAD/)
 
 * **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
-*Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang
+*Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
 arXiv Preprint, 2023.*  
 [[project]](https://g-1nonly.github.io/EvaSurf-Website/)
 
