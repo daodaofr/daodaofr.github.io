@@ -38,6 +38,11 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
+* **Multi-times Monte Carlo Rendering forInter-reflection Reconstruction.**  
+*Tengjie Zhu, Zhuo Chen, Jingnan Gao, **Yichao Yan**, Xiaokang Yang  
+arXiv Preprint, 2024.*  
+[[project]](https://zhutengjie.github.io/Ref-MC2/)
+
 * **IPAD: Industrial Process Anomaly Detection Dataset.**  
 *Jinfan Liu, **Yichao Yan**, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
 arXiv Preprint, 2024.*  
