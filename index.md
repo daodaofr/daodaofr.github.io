@@ -38,7 +38,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
-* **Multi-times Monte Carlo Rendering forInter-reflection Reconstruction.**  
+* **Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction.**  
 *Tengjie Zhu, Zhuo Chen, Jingnan Gao, **Yichao Yan**, Xiaokang Yang  
 arXiv Preprint, 2024.*  
 [[project]](https://zhutengjie.github.io/Ref-MC2/)
