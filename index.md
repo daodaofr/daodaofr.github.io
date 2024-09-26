@@ -25,6 +25,8 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 09/2024, One paper on inverse rendering is accepted by **NeurIPS** 2024.
+- 09/2024, One paper on video anomaly detection is accepted by **TCSVT**.
 - 07/2024, Three papers on avatar generation, face animation, and diffusion model are accepted by **ACM Multimedia** 2024.
 - 07/2024, Two papers on 4D face reconstruction and human-object interaction are accepted by **ECCV** 2024.
 - 02/2024, Four papers on human interaction generation, face reconstruction and editing are accepted by **CVPR** 2024.
@@ -38,22 +40,22 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
-* **Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction.**  
-*Tengjie Zhu, Zhuo Chen, Jingnan Gao, **Yichao Yan**, Xiaokang Yang  
-arXiv Preprint, 2024.*  
-[[project]](https://zhutengjie.github.io/Ref-MC2/)
-
-* **IPAD: Industrial Process Anomaly Detection Dataset.**  
-*Jinfan Liu, **Yichao Yan**, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
-arXiv Preprint, 2024.*  
-[[project]](https://ljf1113.github.io/IPAD_VAD/)
-
 * **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
 arXiv Preprint, 2023.*  
 [[project]](https://g-1nonly.github.io/EvaSurf-Website/)
 
 ### Publications
+
+* **Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction.**  
+*Tengjie Zhu, Zhuo Chen, Jingnan Gao, **Yichao Yan**, Xiaokang Yang  
+Conference on Neural Information Processing Systems (**NeurIPS**), 2024.*  
+[[project]](https://zhutengjie.github.io/Ref-MC2/)
+
+* **IPAD: Industrial Process Anomaly Detection Dataset.**  
+*Jinfan Liu, **Yichao Yan**, Junjie Li, Weiming Zhao, Pengzhi Chu, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024.*  
+[[project]](https://ljf1113.github.io/IPAD_VAD/)
 
 * **E^3Gen: Efficient, Expressive and Editable Avatars Generation.**  
 *Weitian Zhang, **Yichao Yan**, Yunhui Liu, Xingdong Sheng, Xiaokang Yang.  
