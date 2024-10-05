@@ -45,6 +45,16 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 arXiv Preprint, 2023.*  
 [[project]](https://g-1nonly.github.io/EvaSurf-Website/)
 
+* **Generalizable person search on open-world user-generated video content.**  
+*Junjie Li, Guanshuo Wang, **Yichao Yan**, Fufu Yu, Qiong Jia, Jie Qin, Shouhong Ding, Xiaokang Yang  
+arXiv Preprint, 2023.*  
+[[paper]](https://arxiv.org/abs/2310.10068)
+
+* **Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization.**  
+*Junjie Li, Guanshuo Wang, Fufu Yu, **Yichao Yan**, Qiong Jia, Shouhong Ding, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
+arXiv Preprint, 2024.*  
+[[paper]](https://arxiv.org/abs/2404.12611)
+
 ### Publications
 
 * **Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction.**  
