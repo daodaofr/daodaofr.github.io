@@ -40,6 +40,11 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
+* **PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing.**  
+*Feng Tian, Yixuan Li, **Yichao Yan**, Shanyan Guan, Yanhao Ge, Xiaokang Yang  
+arXiv Preprint, 2024.*  
+[[paper]](https://arxiv.org/abs/2410.04844)
+
 * **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
 arXiv Preprint, 2023.*  
