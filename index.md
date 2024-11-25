@@ -25,6 +25,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 11/2024, One paper on efficient 3D reconstruction is accepted by **TVCG**.
 - 09/2024, One paper on inverse rendering is accepted by **NeurIPS** 2024.
 - 09/2024, One paper on video anomaly detection is accepted by **TCSVT**.
 - 07/2024, Three papers on avatar generation, face animation, and diffusion model are accepted by **ACM Multimedia** 2024.
@@ -45,10 +46,10 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 arXiv Preprint, 2024.*  
 [[paper]](https://arxiv.org/abs/2410.04844)
 
-* **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
-*Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
-arXiv Preprint, 2023.*  
-[[project]](https://g-1nonly.github.io/EvaSurf-Website/)
+* **AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction.**  
+*Jingnan Gao, Zhuo Chen, **Yichao Yan**, Xiaokang Yang  
+arXiv Preprint, 2024.*  
+[[project]](https://g-1nonly.github.io/AniSDF_Website/)
 
 * **Generalizable person search on open-world user-generated video content.**  
 *Junjie Li, Guanshuo Wang, **Yichao Yan**, Fufu Yu, Qiong Jia, Jie Qin, Shouhong Ding, Xiaokang Yang  
@@ -61,6 +62,11 @@ arXiv Preprint, 2024.*
 [[paper]](https://arxiv.org/abs/2404.12611)
 
 ### Publications
+
+* **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
+*Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
+IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2024*  
+[[project]](https://g-1nonly.github.io/EvaSurf-Website/)
 
 * **Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction.**  
 *Tengjie Zhu, Zhuo Chen, Jingnan Gao, **Yichao Yan**, Xiaokang Yang  
