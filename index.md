@@ -53,6 +53,11 @@ arXiv Preprint, 2024.*
 arXiv Preprint, 2024.*  
 [[project]](https://g-1nonly.github.io/AniSDF_Website/)
 
+* **SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**  
+*Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang 
+arXiv Preprint, 2023.*  
+[[project]](https://wsj-sjtu.github.io/SingingHead/)
+
 * **Generalizable person search on open-world user-generated video content.**  
 *Junjie Li, Guanshuo Wang, **Yichao Yan**, Fufu Yu, Qiong Jia, Jie Qin, Shouhong Ding, Xiaokang Yang  
 arXiv Preprint, 2023.*  
