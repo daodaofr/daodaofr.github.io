@@ -107,7 +107,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2024
 
 * **MMHead: Towards Fine-grained Multi-modal 3D Facial Animation.**  
 *Sijing Wu, Yunhao Li, **Yichao Yan**, Huiyu Duan, Ziwei Liu, Guangtao Zhai.  
-**ACM Multimedia**, 2024.*
+**ACM Multimedia**, 2024.*   
 [[project]](https://wsj-sjtu.github.io/MMHead/)
 
 * **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture.**  
