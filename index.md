@@ -25,6 +25,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 12/2024, “关系驱动的视觉目标解析理论与方法”获得中国图象图形学学会自然科学二等奖（排2）.
 - 11/2024, One paper on efficient 3D reconstruction is accepted by **TVCG**.
 - 10/2023, 团队获得中国国际大学生创新大赛（2024）上海赛区 **2 项金奖**.
 - 09/2024, One paper on inverse rendering is accepted by **NeurIPS** 2024.
