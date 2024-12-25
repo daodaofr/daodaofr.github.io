@@ -43,6 +43,11 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
+* **Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation.**  
+*Shengqi Liu, Yuhao Cheng, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, **Yichao Yan**  
+arXiv Preprint, 2024.*  
+[[project]](https://shengqiliu1.github.io/SewingLDM/)
+
 * **PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing.**  
 *Feng Tian, Yixuan Li, **Yichao Yan**, Shanyan Guan, Yanhao Ge, Xiaokang Yang  
 arXiv Preprint, 2024.*  
