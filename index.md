@@ -58,6 +58,11 @@ arXiv Preprint, 2024.*
 arXiv Preprint, 2024.*  
 [[project]](https://g-1nonly.github.io/AniSDF_Website/)
 
+* **Revealing Directions for Text-guided 3D Face Editing.**  
+*Zhuo Chen, **Yichao Yan**, Sehngqi Liu, Yuhao Cheng, Weiming Zhao, Lincheng Li, Mengxiao Bi, Xiaokang Yang  
+arXiv Preprint, 2024.*  
+[[paper]](https://arxiv.org/abs/2410.04965)
+
 * **SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**  
 *Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang 
 arXiv Preprint, 2023.*  
