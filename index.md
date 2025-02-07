@@ -55,14 +55,10 @@ arXiv Preprint, 2024.*
 [[paper]](https://arxiv.org/abs/2410.04965)
 
 * **SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**  
-*Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang 
+*Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang  
 arXiv Preprint, 2023.*  
 [[project]](https://wsj-sjtu.github.io/SingingHead/)
 
-* **Generalizable person search on open-world user-generated video content.**  
-*Junjie Li, Guanshuo Wang, **Yichao Yan**, Fufu Yu, Qiong Jia, Jie Qin, Shouhong Ding, Xiaokang Yang  
-arXiv Preprint, 2023.*  
-[[paper]](https://arxiv.org/abs/2310.10068)
 
 * **Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization.**  
 *Junjie Li, Guanshuo Wang, Fufu Yu, **Yichao Yan**, Qiong Jia, Shouhong Ding, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
@@ -80,6 +76,11 @@ International Conference on Learning Representations (ICLR), 2025.*
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Xiaokang Yang  
 International Conference on Learning Representations (ICLR), 2025.*  
 [[project]](https://g-1nonly.github.io/AniSDF_Website/)
+
+* **Generalizable person search on open-world user-generated video content.**  
+*Junjie Li, Guanshuo Wang, **Yichao Yan**, Fufu Yu, Qiong Jia, Jie Qin, Shouhong Ding, Xiaokang Yang  
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025.*  
+[[paper]](https://arxiv.org/abs/2310.10068)
 
 * **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
