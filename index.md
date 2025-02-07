@@ -77,7 +77,7 @@ International Conference on Learning Representations (ICLR), 2025.*
 International Conference on Learning Representations (ICLR), 2025.*  
 [[project]](https://g-1nonly.github.io/AniSDF_Website/)
 
-* **Generalizable person search on open-world user-generated video content.**  
+* **Generalizable Person Search on Open-world User-generated Video Content.**  
 *Junjie Li, Guanshuo Wang, **Yichao Yan**, Fufu Yu, Qiong Jia, Jie Qin, Shouhong Ding, Xiaokang Yang  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025.*  
 [[paper]](https://arxiv.org/abs/2310.10068)
