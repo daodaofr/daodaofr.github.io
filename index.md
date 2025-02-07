@@ -25,6 +25,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 01/2025, Two papers on 3D reconstruction and image editing are accepted by **ICLR** 2025.
 - 12/2024, “关系驱动的视觉目标解析理论与方法”获得中国图象图形学学会自然科学二等奖（排2）.
 - 11/2024, One paper on efficient 3D reconstruction is accepted by **TVCG**.
 - 10/2023, 团队获得中国国际大学生创新大赛（2024）上海赛区 **2 项金奖**.
@@ -48,16 +49,6 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 arXiv Preprint, 2024.*  
 [[project]](https://shengqiliu1.github.io/SewingLDM/)
 
-* **PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing.**  
-*Feng Tian, Yixuan Li, **Yichao Yan**, Shanyan Guan, Yanhao Ge, Xiaokang Yang  
-arXiv Preprint, 2024.*  
-[[paper]](https://arxiv.org/abs/2410.04844)
-
-* **AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction.**  
-*Jingnan Gao, Zhuo Chen, **Yichao Yan**, Xiaokang Yang  
-arXiv Preprint, 2024.*  
-[[project]](https://g-1nonly.github.io/AniSDF_Website/)
-
 * **Revealing Directions for Text-guided 3D Face Editing.**  
 *Zhuo Chen, **Yichao Yan**, Sehngqi Liu, Yuhao Cheng, Weiming Zhao, Lincheng Li, Mengxiao Bi, Xiaokang Yang  
 arXiv Preprint, 2024.*  
@@ -79,6 +70,16 @@ arXiv Preprint, 2024.*
 [[paper]](https://arxiv.org/abs/2404.12611)
 
 ### Publications
+
+* **PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing.**  
+*Feng Tian, Yixuan Li, **Yichao Yan**, Shanyan Guan, Yanhao Ge, Xiaokang Yang  
+International Conference on Learning Representations (ICLR), 2025.*  
+[[paper]](https://arxiv.org/abs/2410.04844)
+
+* **AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction.**  
+*Jingnan Gao, Zhuo Chen, **Yichao Yan**, Xiaokang Yang  
+International Conference on Learning Representations (ICLR), 2025.*  
+[[project]](https://g-1nonly.github.io/AniSDF_Website/)
 
 * **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
