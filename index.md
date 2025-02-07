@@ -74,12 +74,12 @@ arXiv Preprint, 2024.*
 
 * **PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing.**  
 *Feng Tian, Yixuan Li, **Yichao Yan**, Shanyan Guan, Yanhao Ge, Xiaokang Yang  
-International Conference on Learning Representations (ICLR), 2025.*  
+International Conference on Learning Representations (**ICLR**), 2025.*  
 [[paper]](https://arxiv.org/abs/2410.04844)
 
 * **AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction.**  
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Xiaokang Yang  
-International Conference on Learning Representations (ICLR), 2025.*  
+International Conference on Learning Representations (**ICLR**), 2025.*  
 [[project]](https://g-1nonly.github.io/AniSDF_Website/)
 
 * **GPS: Generalizable Person Search on Open-world User-generated Video Content.**  
