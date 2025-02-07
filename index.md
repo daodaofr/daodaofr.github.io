@@ -44,6 +44,11 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
+* **Disentangled Clothed Avatar Generation with Layered Representation.**  
+*Weitian Zhang, Sijing Wu, Manwen Liao, **Yichao Yan**  
+arXiv Preprint, 2025.*  
+[[project]](https://olivia23333.github.io/LayerAvatar/)
+
 * **Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation.**  
 *Shengqi Liu, Yuhao Cheng, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, **Yichao Yan**  
 arXiv Preprint, 2024.*  
@@ -77,10 +82,10 @@ International Conference on Learning Representations (ICLR), 2025.*
 International Conference on Learning Representations (ICLR), 2025.*  
 [[project]](https://g-1nonly.github.io/AniSDF_Website/)
 
-* **Generalizable Person Search on Open-world User-generated Video Content.**  
+* **GPS: Generalizable Person Search on Open-world User-generated Video Content.**  
 *Junjie Li, Guanshuo Wang, **Yichao Yan**, Fufu Yu, Qiong Jia, Jie Qin, Shouhong Ding, Xiaokang Yang  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025.*  
-[[paper]](https://arxiv.org/abs/2310.10068)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10839440/)
 
 * **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices.**  
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Bowen Pan, Zhe Wang, Jiangjing Lyu, Xiaokang Yang  
