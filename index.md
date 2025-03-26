@@ -13,7 +13,7 @@ We have a light stage and a motion/volume capture device. We have abundant GPUs.
 ![image](facility.png)
 
 ### Opening Positions
-**We are looking for post-doc researchers, collaborating with Professor Yang Xiaokang!**  
+**We are looking for post-doc researchers, collaborating with Professor Xiaokang Yang!**  
 I am a co-chair of the SJTU [[AIGC Class]](https://sjtu-aigc.github.io/).
 Looking for self-motivated undergraduate and graduate students to work with me in computer vision, AIGC, and 3D modeling. For prospective students, please send your resume and transcript to my email. 
 
