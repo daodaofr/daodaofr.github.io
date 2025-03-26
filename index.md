@@ -25,6 +25,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 02/2025, Two papers on 3D face reconstruction are accepted by **CVPR** 2025.
 - 01/2025, Two papers on 3D reconstruction and image editing are accepted by **ICLR** 2025.
 - 12/2024, “关系驱动的视觉目标解析理论与方法”获得中国图象图形学学会自然科学二等奖（排2）.
 - 11/2024, One paper on efficient 3D reconstruction is accepted by **TVCG**.
