@@ -55,10 +55,6 @@ arXiv Preprint, 2025.*
 arXiv Preprint, 2024.*  
 [[project]](https://shengqiliu1.github.io/SewingLDM/)
 
-* **Revealing Directions for Text-guided 3D Face Editing.**  
-*Zhuo Chen, **Yichao Yan**, Sehngqi Liu, Yuhao Cheng, Weiming Zhao, Lincheng Li, Mengxiao Bi, Xiaokang Yang  
-arXiv Preprint, 2024.*  
-[[paper]](https://arxiv.org/abs/2410.04965)
 
 * **SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**  
 *Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang  
@@ -72,6 +68,11 @@ arXiv Preprint, 2024.*
 [[paper]](https://arxiv.org/abs/2404.12611)
 
 ### Publications
+
+* **Revealing Directions for Text-guided 3D Face Editing.**  
+*Zhuo Chen, **Yichao Yan**, Sehngqi Liu, Yuhao Cheng, Weiming Zhao, Lincheng Li, Mengxiao Bi, Xiaokang Yang  
+IEEE Transactions on Multimedia (**TMM**), 2025.*  
+[[paper]](https://arxiv.org/abs/2410.04965)
 
 * **PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing.**  
 *Feng Tian, Yixuan Li, **Yichao Yan**, Shanyan Guan, Yanhao Ge, Xiaokang Yang  
