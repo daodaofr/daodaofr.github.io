@@ -56,12 +56,10 @@ arXiv Preprint, 2025.*
 arXiv Preprint, 2024.*  
 [[project]](https://shengqiliu1.github.io/SewingLDM/)
 
-
 * **SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**  
 *Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang  
 arXiv Preprint, 2023.*  
 [[project]](https://wsj-sjtu.github.io/SingingHead/)
-
 
 * **Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization.**  
 *Junjie Li, Guanshuo Wang, Fufu Yu, **Yichao Yan**, Qiong Jia, Shouhong Ding, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
@@ -69,6 +67,11 @@ arXiv Preprint, 2024.*
 [[paper]](https://arxiv.org/abs/2404.12611)
 
 ### Publications
+
+* **Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture.**  
+*Xuanchen Li, Jianyu Wang, Yuhao Cheng, Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, **Yichao Yan**.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.*  
+[[project]](https://xuanchenli.github.io/TexTalk/)
 
 * **Revealing Directions for Text-guided 3D Face Editing.**  
 *Zhuo Chen, **Yichao Yan**, Sehngqi Liu, Yuhao Cheng, Weiming Zhao, Lincheng Li, Mengxiao Bi, Xiaokang Yang  
