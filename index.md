@@ -46,6 +46,12 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
+* **Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping.**  
+*Weili Zeng, Ziyuan Huang, Kaixiang Ji, **Yichao Yan**  
+arXiv Preprint, 2025.*  
+[[paper]](https://arxiv.org/abs/2503.21817/)
+
+
 * **Disentangled Clothed Avatar Generation with Layered Representation.**  
 *Weitian Zhang, Sijing Wu, Manwen Liao, **Yichao Yan**  
 arXiv Preprint, 2025.*  
