@@ -26,6 +26,8 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 06/2025, Four papers on 3D body generation, garment generation, HOI, and large model training are accepted by **ICCV** 2025.
+- 05/2025, One paper on 3D Gaussian is accepted by **ICML** 2025.
 - 02/2025, Two papers on 3D face reconstruction are accepted by **CVPR** 2025.
 - 01/2025, Two papers on 3D reconstruction and image editing are accepted by **ICLR** 2025.
 - 12/2024, “关系驱动的视觉目标解析理论与方法”获得中国图象图形学学会自然科学二等奖（排2）.
@@ -46,33 +48,37 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
-* **Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping.**  
-*Weili Zeng, Ziyuan Huang, Kaixiang Ji, **Yichao Yan**  
-arXiv Preprint, 2025.*  
-[[paper]](https://arxiv.org/abs/2503.21817/)
-
-
-* **Disentangled Clothed Avatar Generation with Layered Representation.**  
-*Weitian Zhang, Sijing Wu, Manwen Liao, **Yichao Yan**  
-arXiv Preprint, 2025.*  
-[[project]](https://olivia23333.github.io/LayerAvatar/)
-
-* **Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation.**  
-*Shengqi Liu, Yuhao Cheng, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, **Yichao Yan**  
-arXiv Preprint, 2024.*  
-[[project]](https://shengqiliu1.github.io/SewingLDM/)
-
-* **SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**  
-*Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang  
-arXiv Preprint, 2023.*  
-[[project]](https://wsj-sjtu.github.io/SingingHead/)
-
 * **Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization.**  
 *Junjie Li, Guanshuo Wang, Fufu Yu, **Yichao Yan**, Qiong Jia, Shouhong Ding, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
 arXiv Preprint, 2024.*  
 [[paper]](https://arxiv.org/abs/2404.12611)
 
 ### Publications
+
+* **Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping.**  
+*Weili Zeng, Ziyuan Huang, Kaixiang Ji, **Yichao Yan**  
+International Conference on Computer Vision (**ICCV**), 2025.*  
+[[paper]](https://arxiv.org/abs/2503.21817/)
+
+* **Disentangled Clothed Avatar Generation with Layered Representation.**  
+*Weitian Zhang, Sijing Wu, Manwen Liao, **Yichao Yan**  
+International Conference on Computer Vision (**ICCV**), 2025.*  
+[[project]](https://olivia23333.github.io/LayerAvatar/)
+
+* **Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation.**  
+*Shengqi Liu, Yuhao Cheng, Zhuo Chen, Xingyu Ren, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, **Yichao Yan**  
+International Conference on Computer Vision (**ICCV**), 2025.*  
+[[project]](https://shengqiliu1.github.io/SewingLDM/)
+
+* **Enhancing Visual Localization with Cross-Domain Image Generation.**
+*Yuanze Wang, **Yichao Yan**, Shiming Song, Songchang Jin, Yilan Huang, Xingdong Sheng, Dianxi Shi  
+International Conference on Machine Learning(**ICML**), 2025*
+[[paper]](https://openreview.net/forum?id=ruj5ILBUuK)
+
+* **SingingHead: A Large-scale 4D Dataset for Singing Head Animation.**  
+*Sijing Wu, Yunhao Li, Weitian Zhang, Jun Jia, Yucheng Zhu, **Yichao Yan**, Guangtao Zhai, Xiaokang Yang  
+IEEE Transactions on Multimedia (**TMM**), 2025.*  
+[[project]](https://wsj-sjtu.github.io/SingingHead/)
 
 * **Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture.**  
 *Xuanchen Li, Jianyu Wang, Yuhao Cheng, Yikun Zeng, Xingyu Ren, Wenhan Zhu, Weiming Zhao, **Yichao Yan**.  
