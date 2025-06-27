@@ -71,7 +71,7 @@ International Conference on Computer Vision (**ICCV**), 2025.*
 [[project]](https://shengqiliu1.github.io/SewingLDM/)
 
 * **Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**  
-* Liang Xu, Chengqun Yang, Zili Lin, Fei Xu, Yifan Liu, Congsheng Xu, Yiyi Zhang, Jie Qin, Xingdong Sheng, Yunhui Liu, Xin Jin, **Yichao Yan**, Wenjun Zeng, Xiaokang Yang  
+*Liang Xu, Chengqun Yang, Zili Lin, Fei Xu, Yifan Liu, Congsheng Xu, Yiyi Zhang, Jie Qin, Xingdong Sheng, Yunhui Liu, Xin Jin, **Yichao Yan**, Wenjun Zeng, Xiaokang Yang  
 International Conference on Computer Vision (**ICCV**), 2025.*  
 Coming soon!
 
