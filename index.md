@@ -70,7 +70,7 @@ International Conference on Computer Vision (**ICCV**), 2025.*
 International Conference on Computer Vision (**ICCV**), 2025.*  
 [[project]](https://shengqiliu1.github.io/SewingLDM/)
 
-* **Enhancing Visual Localization with Cross-Domain Image Generation.**
+* **Enhancing Visual Localization with Cross-Domain Image Generation.**  
 *Yuanze Wang, **Yichao Yan**, Shiming Song, Songchang Jin, Yilan Huang, Xingdong Sheng, Dianxi Shi  
 International Conference on Machine Learning(**ICML**), 2025*  
 [[paper]](https://openreview.net/forum?id=ruj5ILBUuK)
