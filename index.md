@@ -26,6 +26,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 11/2025, Topo4D++ is accepted by **TPAMI**.
 - 06/2025, Four papers on 3D body generation, garment generation, HOI, and large model training are accepted by **ICCV** 2025.
 - 05/2025, One paper on 3D Gaussian is accepted by **ICML** 2025.
 - 02/2025, Two papers on 3D face reconstruction are accepted by **CVPR** 2025.
@@ -54,6 +55,11 @@ arXiv Preprint, 2024.*
 [[paper]](https://arxiv.org/abs/2404.12611)
 
 ### Publications
+
+* **Topo4D++: Realistic Physically Based 4D Head Capture with Topology-Preserving Gaussian Splatting and Expression Priors.**  
+*Yuhao Cheng; Xuanchen Li; Xingyu Ren; Jianyu Wang; Haozhe Jia; Di Xu; Wenhan Zhu; Bingbing Ni; **Yichao Yan**  
+IEEE Transactions on Pattern Analysis and Machine Intelligence  (**TPAMI**), 2025.*  
+[[paper]](https://ieeexplore.ieee.org/document/11223767) [[project]](https://cyh-sj.github.io/Topo4DPP/)
 
 * **Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping.**  
 *Weili Zeng, Ziyuan Huang, Kaixiang Ji, **Yichao Yan**  
