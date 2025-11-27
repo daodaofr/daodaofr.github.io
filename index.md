@@ -26,6 +26,7 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
+- 12/2024, “高精度三维建模关键技术及应用”获得中国图象图形学学会科技进步二等奖（排1）.
 - 11/2025, Topo4D++ is accepted by **TPAMI**.
 - 06/2025, Four papers on 3D body generation, garment generation, HOI, and large model training are accepted by **ICCV** 2025.
 - 05/2025, One paper on 3D Gaussian is accepted by **ICML** 2025.
