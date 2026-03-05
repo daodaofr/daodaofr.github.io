@@ -26,7 +26,8 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 
 ### Updates   
-- 12/2024, “高精度三维建模关键技术及应用”获得中国图象图形学学会科技进步二等奖（排1）.
+- 02/2026, Dens3R is accepted by **ICLR** 2026. MoRE and POLAR are accepted by **CVPR** 2026.
+- 12/2025, “高精度三维建模关键技术及应用”获得中国图象图形学学会科技进步二等奖（排1）.
 - 11/2025, Topo4D++ is accepted by **TPAMI**.
 - 06/2025, Four papers on 3D body generation, garment generation, HOI, and large model training are accepted by **ICCV** 2025.
 - 05/2025, One paper on 3D Gaussian is accepted by **ICML** 2025.
@@ -55,6 +56,21 @@ arXiv Preprint, 2024.*
 [[paper]](https://arxiv.org/abs/2404.12611)
 
 ### Publications
+
+* **MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts.**  
+*Jingnan Gao, Zhe Wang, Xianze Fang, Xingyu Ren, Zhuo Chen, Shengqi Liu, Yuhao Cheng, Jiangjing Lyu, Xiaokang Yang, **Yichao Yan**.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.*  
+[[project]](https://g-1nonly.github.io/MoRE_Website/)
+
+* **POLAR: A Portrait OLAT Dataset and Generative Framework for Illumination-Aware Face Modeling.**  
+*Zhuo Chen, Chengqun Yang, Zhuo Su, Zheng Lv, Jingnan Gao, Xiaoyuan Zhang, Xiaokang Yang, **Yichao Yan**.  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.*  
+[[project]](https://rex0191.github.io/POLAR/)
+
+* **Dens3r: A Foundation Model for 3D Geometry Prediction.**  
+*Xianze Fang, Jingnan Gao, Zhe Wang, Zhuo Chen, Xingyu Ren, Jiangjing Lyu, Qiaomu Ren, Zhonglei Yang, Xiaokang Yang, **Yichao Yan**, Chengfei Lyu  
+International Conference on Learning Representations (**ICLR**), 2026.*  
+[[project]](https://g-1nonly.github.io/Dens3R/)
 
 * **Topo4D++: Realistic Physically Based 4D Head Capture with Topology-Preserving Gaussian Splatting and Expression Priors.**  
 *Yuhao Cheng; Xuanchen Li; Xingyu Ren; Jianyu Wang; Haozhe Jia; Di Xu; Wenhan Zhu; Bingbing Ni; **Yichao Yan**  
@@ -104,7 +120,7 @@ IEEE Transactions on Multimedia (**TMM**), 2025.*
 * **PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing.**  
 *Feng Tian, Yixuan Li, **Yichao Yan**, Shanyan Guan, Yanhao Ge, Xiaokang Yang  
 International Conference on Learning Representations (**ICLR**), 2025.*  
-[[paper]](https://arxiv.org/abs/2410.04844)
+[[paper]](https://arxiv.org/abs/2410.04844)[[code]](https://github.com/TFNTF/PostEdit)
 
 * **AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction.**  
 *Jingnan Gao, Zhuo Chen, **Yichao Yan**, Xiaokang Yang  
