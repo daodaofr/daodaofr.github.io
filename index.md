@@ -9,8 +9,8 @@ Email: yanyichao(at)sjtu.edu.cn
 Office: 5-510, Software building, Shanghai Jiao Tong University.
 
 ### Facilities
-We have a light stage and a motion/volume capture device. We have abundant GPUs.
-![image](facility.png)
+We have a light stage and a motion/volume capture device, several humanoid robots, and abundant GPUs.
+![image](platform.png)
 
 ### Opening Positions
 **We are looking for post-doc researchers, collaborating with Professor Xiaokang Yang!**  
