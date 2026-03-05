@@ -1,6 +1,4 @@
-## X-Human Lab
-
-## Yichao Yan, PI 
+## Yichao Yan, X-Human Lab
 
 ## Associate Professor, AI Institute, Shanghai Jiao Tong University
 
