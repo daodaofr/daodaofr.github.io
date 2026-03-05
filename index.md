@@ -1,6 +1,8 @@
-## X-human Lab
+## X-Human Lab
 
-## Yichao Yan, Associate Professor, AI Institute, Shanghai Jiao Tong University
+## Yichao Yan, PI 
+
+## Associate Professor, AI Institute, Shanghai Jiao Tong University
 
 [Google Scholar](https://scholar.google.com/citations?user=ZPHMMRkAAAAJ&hl=zh-CN)  [Github](https://github.com/daodaofr)
 
