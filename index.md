@@ -50,6 +50,12 @@ I am interested in **computer vision** problems. Typically, I am working on (1) 
 
 ### Preprints
 
+* **CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation.**  
+*Tengjie Zhu, Guanyu Cai, Yang Zhaohui, Guanzhu Ren, Haohui Xie, ZiRui Wang, Junsong Wu, Jingbo Wang, Xiaokang Yang, Yao Mu, **Yichao Yan**   
+arXiv Preprint, 2026.*  
+[[project]](https://zhutengjie.github.io/CLOT.github.io/)
+
+
 * **Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization.**  
 *Junjie Li, Guanshuo Wang, Fufu Yu, **Yichao Yan**, Qiong Jia, Shouhong Ding, Xingdong Sheng, Yunhui Liu, Xiaokang Yang  
 arXiv Preprint, 2024.*  
