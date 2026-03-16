@@ -63,6 +63,11 @@ arXiv Preprint, 2024.*
 
 ### Publications
 
+* **SingingBot: An Avatar-Driven System for Robotic Face Singing Performance.**  
+*Zhuoxiong Xu, Xuanchen Li, Yuhao Cheng, Fei Xu, **Yichao Yan**, Xiaokang Yang.  
+IEEE International Conference on Multimedia & Expo (ICME) (**ICME**), 2026.*  
+[[project]](https://droshown.github.io/SingingBot/)
+
 * **MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts.**  
 *Jingnan Gao, Zhe Wang, Xianze Fang, Xingyu Ren, Zhuo Chen, Shengqi Liu, Yuhao Cheng, Jiangjing Lyu, Xiaokang Yang, **Yichao Yan**.  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.*  
