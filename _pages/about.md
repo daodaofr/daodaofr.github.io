@@ -29,6 +29,17 @@ latest_posts:
   limit: 3
 ---
 
+<style>
+.profile {
+  width: 220px !important;
+}
+@media (min-width: 576px) {
+  .profile {
+    width: 220px !important;
+  }
+}
+</style>
+
 ### 🔬 X-Human Lab
 
 We have a **light stage** and a **motion/volume capture device**, several **humanoid robots**, and abundant **GPUs**.
