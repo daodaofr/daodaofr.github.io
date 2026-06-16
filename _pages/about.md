@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, <a href="https://www.ai.sjtu.edu.cn/">AI Institute</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
+subtitle: Associate Professor, <a href="https://www.cs.sjtu.edu.cn/">School of Computer Science</a>, <a href="https://www.ai.sjtu.edu.cn/">Institute of AI</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
 
 profile:
   align: right
