@@ -31,11 +31,11 @@ latest_posts:
 
 <style>
 .profile {
-  width: 220px !important;
+  width: 190px !important;
 }
 @media (min-width: 576px) {
   .profile {
-    width: 220px !important;
+    width: 190px !important;
   }
 }
 </style>
