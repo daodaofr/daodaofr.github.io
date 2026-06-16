@@ -38,6 +38,11 @@ latest_posts:
     width: 190px !important;
   }
 }
+.publications ol.bibliography li .author > em {
+  font-weight: 700 !important;
+  font-style: normal;
+  border-bottom: none;
+}
 </style>
 
 ### 🔬 X-Human Lab
@@ -54,7 +59,7 @@ We have a **light stage** and a **motion/volume capture device**, several **huma
 
 **We are looking for post-doc researchers, collaborating with Professor Xiaokang Yang!**
 
-I am a co-chair of the SJTU **AIGC Class**. Looking for self-motivated undergraduate and graduate students to work with me in **computer vision, AIGC, and 3D modeling**. For prospective students, please send your resume and transcript to my email.
+I am a co-chair of the SJTU <a href="https://sjtu-aigc.github.io/" target="_blank">**AIGC Class**</a>. Looking for self-motivated undergraduate and graduate students to work with me in **computer vision, AIGC, and 3D modeling**. For prospective students, please send your resume and transcript to my email.
 
 ### 📖 Biography
 
