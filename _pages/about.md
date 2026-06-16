@@ -12,6 +12,8 @@ profile:
     <p>Email: yanyichao@sjtu.edu.cn</p>
     <p>Office: 5-510, Software Building</p>
     <p>Shanghai Jiao Tong University</p>
+    <p><a href="https://scholar.google.com/citations?user=ZPHMMRkAAAAJ&hl=zh-CN" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a></p>
+    <p><a href="https://github.com/daodaofr" target="_blank"><i class="fab fa-github"></i> GitHub</a></p>
 
 selected_papers: true
 social: true
