@@ -59,13 +59,13 @@ We have a **light stage** and a **motion/volume capture device**, several **huma
 
 **We are looking for post-doc researchers, collaborating with Professor Xiaokang Yang!**
 
-I am a co-chair of the SJTU <a href="https://sjtu-aigc.github.io/" target="_blank">AIGC Class</a>. Looking for self-motivated undergraduate and graduate students to work with me in **3D representation, AIGC, and embodied AI**. For prospective students, please send your resume and transcript to my email.
+Looking for self-motivated undergraduate and graduate students in **computer science, mechanical engineering, automation engineering** to work with me in **embodied AI, 3D representation, and AIGC**. For prospective students, please send your resume and transcript to my email.
 
 ### 📖 Biography
 
-I am a tenure-track associate professor at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn). I received my **Ph.D.** from Shanghai Jiao Tong University in 2019, supervised by Professor [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en). I received **M.E.** from [École Centrale de Lyon](https://www.ec-lyon.fr/) in France, and **B.E.** from Shanghai Jiao Tong University in 2013. I was a research scientist at the [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/) from June 2019 to April 2021.
+I am a tenure-track associate professor at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn). I received my **Ph.D.** from Shanghai Jiao Tong University in 2019, supervised by Professor [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=en). I received **M.E.** from [École Centrale de Lyon](https://www.ec-lyon.fr/) in France, and **B.E.** from Shanghai Jiao Tong University in 2013. I was a research scientist at the [Inception Institute of Artificial Intelligence (IIAI)](https://www.inceptioniai.org/) from June 2019 to April 2021. I am a co-chair of the SJTU <a href="https://sjtu-aigc.github.io/" target="_blank">AIGC Class</a>. 
 
 My research interests include:
-- 🧊 **3D Representation** — neural rendering, 3D reconstruction, Gaussian splatting
-- 🎨 **AIGC** — generative models, digital humans, face/body modeling
-- 🤖 **Embodied AI** — humanoid teleoperation, human-robot interaction
+- 🤖 **Embodied AI** — humanoid head modeling, human-robot interaction
+- 🧊 **3D Representation** —  3D face/body reconstruction, Gaussian splatting
+- 🎨 **AIGC** — generative models, digital humans
